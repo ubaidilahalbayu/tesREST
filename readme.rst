@@ -17,5 +17,5 @@ PHP >= v8.1
 *******
 Testing
 *******
-Get Brand
-![Alt text](testing/getBrand.png)
+
+dapat dilihat di `testing <https://github.com/ubaidilahalbayu/tesREST/tree/main/testing>` folder
