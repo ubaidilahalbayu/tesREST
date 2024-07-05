@@ -18,4 +18,4 @@ PHP >= v8.1
 Testing
 *******
 
-dapat dilihat di `testing <https://github.com/ubaidilahalbayu/tesREST/tree/main/testing>` folder
+dapat dilihat di `testing <https://github.com/ubaidilahalbayu/tesREST/tree/main/testing>`_ folder
