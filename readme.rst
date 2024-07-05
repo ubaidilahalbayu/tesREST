@@ -18,4 +18,4 @@ PHP >= v8.1
 Testing
 *******
 Get Brand
-|<img src='testing/getBrand.png'>|
+![Alt text](testing/getBrand.png)
