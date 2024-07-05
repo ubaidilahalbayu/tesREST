@@ -6,7 +6,7 @@ Test Backend PT SERU
 Introduction
 ************
 
-Menggunakan framework `codeigniter 3 <https://codeigniter.com/userguide3/>`, dan vendor `chriskacerguis <https://github.com/chriskacerguis/codeigniter-restserver>`
+Menggunakan framework `codeigniter 3 <https://codeigniter.com/userguide3/>`_, dan vendor `chriskacerguis <https://github.com/chriskacerguis/codeigniter-restserver>_`
 
 ************
 Requirements
